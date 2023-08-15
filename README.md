@@ -9,9 +9,9 @@ The goal is to optimization and improvement PoE, and finde the best settings for
 There is a guide in the link on how to applay the lunche options. <br />
 [Launch options](https://www.poewiki.net/wiki/Launch_options) <br />
 
-Use the following <br />
+Use the following <br ////>
     - --nologo <br />
-Disables the animated intro along with the sound. <br />
+Disables the animated intro along with the sound. <br /> 
     - --waitforpreload <br />
 Wait for preloading to finish during startup.
 This causes the game to not finish the initial loading screen until it has fully loaded,
